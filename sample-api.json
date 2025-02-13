@@ -1,0 +1,29 @@
+{
+    "feeds": [
+        {
+            "type": "News",
+            "source": "Blockworks",
+            "title": "CMS data suggenst",
+            "text": "lorem ipsum",
+            "author": "user",
+            "created_at": "2025-02-13",
+            "tokens": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "type": "Twitter",
+            "source": "Blockworks",
+            "title": "CMS data suggenst",
+            "text": "lorem ipsum",
+            "author": "user",
+            "created_at": "2025-02-13",
+            "tokens": [
+                "BTC",
+                "BTC",
+                "SOL"
+            ]
+        }
+    ]
+}
